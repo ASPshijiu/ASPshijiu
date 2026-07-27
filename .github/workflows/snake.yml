@@ -27,6 +27,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Cache streak card
+        run: >-
+          curl --fail --location --retry 3 --retry-all-errors --max-time 60
+          --output dist/github-streak.svg
+          'https://streak-stats.demolab.com?user=ASPshijiu&theme=radical&ring=FF2BD6&fire=FF8A00&currStreakLabel=00F5FF'
+
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v5
         with:

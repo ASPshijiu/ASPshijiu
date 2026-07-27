@@ -64,7 +64,7 @@ STATUS       Building the impossible
 <h2 align="center">📡 LIVE SIGNAL</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ASPshijiu&theme=radical&ring=FF2BD6&fire=FF8A00&currStreakLabel=00F5FF" alt="GitHub streak" />
+  <img src="https://raw.githubusercontent.com/ASPshijiu/ASPshijiu/output/github-streak.svg" alt="GitHub streak" />
 </p>
 
 <p align="center">
