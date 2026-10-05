@@ -1,4 +1,4 @@
-### 你好 👋
+### 你好 👋<a href="https://hits.dwyl.com/ASPshijiu/ASPshijiu"><img align="right" src="https://hits.dwyl.com/ASPshijiu/ASPshijiu.svg" alt="主页访问量" /></a>
 
 <table align="center">
   <tr>
