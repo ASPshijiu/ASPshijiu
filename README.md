@@ -1,4 +1,4 @@
-### 你好 👋<a href="https://github.com/ASPshijiu"><img align="right" src="https://komarev.com/ghpvc/?username=ASPshijiu&label=Views" alt="主页访问量" /></a>
+### 你好 👋
 
 <table align="center">
   <tr>
